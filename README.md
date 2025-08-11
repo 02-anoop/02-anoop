@@ -71,8 +71,16 @@
 
 <details>
   <summary>View</summary>
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/_anoop_7256?theme=dark&font=Nunito&ext=heatmap"/>
+   <a href="https://leetcode.com/_anoop_7256/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="naitik50" height="200" width="200" />
+  </a>
+
+  <!-- 100 days -->
+  <a href="https://leetcode.com/_anoop_7256/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="naitik100"  height="200" width="200"/>
+  </a>
+  <p align="left">
+    <img align="top" src="https://leetcard.jacoblin.cool/_anoop_7256?theme=dark&font=Nunito&ext=heatmap" />
   </p>
 </details>
 
