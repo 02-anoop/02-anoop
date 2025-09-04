@@ -80,7 +80,7 @@
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="naitik100"  height="200" width="200"/>
   </a>
   <p align="left">
-    <img align="top" src="https://leetcard.jacoblin.cool/_anoop_7256?theme=dark&font=Nunito&ext=heatmap" />
+    <img align="top" src="https://leetcard.jacoblin.cool/?theme=dark&font=Nunito&ext=heatmap" />
   </p>
 </details>
 
