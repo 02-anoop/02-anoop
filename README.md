@@ -27,7 +27,7 @@
 <p align="left">
   <a href="mailto:anoopsaini.0905@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/anoop-saini-96a04028b/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a> 
-  <a href="https://leetcode.com/u/_anoop_7256/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
+  <a href="https://6/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
   <a href="https://codeforces.com/profile/02-anoop"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="40"/></a>
   <a href="https://www.instagram.com/02-anoop/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a>
 </p>
@@ -71,12 +71,12 @@
 
 <details>
   <summary>View</summary>
-   <a href="https://leetcode.com/_anoop_7256/" target="_blank">
+   <a href="https:///" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="naitik50" height="200" width="200" />
   </a>
 
   <!-- 100 days -->
-  <a href="https://leetcode.com/_anoop_7256/" target="_blank">
+  <a href="https://" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="naitik100"  height="200" width="200"/>
   </a>
   <p align="left">
